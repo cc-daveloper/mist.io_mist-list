@@ -1,6 +1,6 @@
 # \<mist-list\>
 
-Flexible list element based on vaadin-grid
+Flexible list element based on vaadin-grid.
 
 ## Install the Polymer-CLI
 
